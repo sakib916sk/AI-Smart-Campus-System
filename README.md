@@ -423,10 +423,7 @@ node run_complete_qa.mjs
 
 ## Team
 
-|| Name | Student ID |
-| --- | --- | --- |
- Shanawaz Sakib | 11220320916 |
-
-
-Course: CSE 4204 Mobile Computing Lab, Section 8A.
+| Role | Name | Contact |
+|---|---|---|
+| Full-Stack Developer | Shanawaz Sakib | sk9703303@gmail.com |
 

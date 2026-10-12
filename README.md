@@ -423,12 +423,10 @@ node run_complete_qa.mjs
 
 ## Team
 
-| Role | Name | Student ID |
+|| Name | Student ID |
 | --- | --- | --- |
-| Team Leader / Database | Md. Nazmus Shakib | 11220320852 |
-| AI | Samira Akter Mitu | 11220320858 |
-| Frontend | Tanvin Sadik Dhrubo | 11220320860 |
-| Backend | Khan Waziur Rahman | 11220320861 |
+Database | Shanawaz Sakib | 11220320916 |
+
 
 Course: CSE 4204 Mobile Computing Lab, Section 8A.
 

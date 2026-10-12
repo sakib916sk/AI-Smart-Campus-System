@@ -425,7 +425,7 @@ node run_complete_qa.mjs
 
 || Name | Student ID |
 | --- | --- | --- |
-Database | Shanawaz Sakib | 11220320916 |
+ Shanawaz Sakib | 11220320916 |
 
 
 Course: CSE 4204 Mobile Computing Lab, Section 8A.
